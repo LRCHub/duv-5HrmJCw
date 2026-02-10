@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "愛の点滅",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-10T16:42:58.784450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の点滅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/01_愛の点滅_クリープハイプ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の点滅 - Aino Tenmetsu",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_愛の点滅_-_Aino_Tenmetsu_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の点滅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_愛の点滅_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛の点滅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_愛の点滅_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛の点滅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_愛の点滅_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛の点滅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_04_愛の点滅_クリープハイプ.txt"
+    }
+  ]
+}
